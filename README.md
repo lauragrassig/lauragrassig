@@ -1,7 +1,7 @@
 # 👋 Hi there
 
 I'm Laura Grassi, a passionate software developer and tech enthusiast. I currently work as a Senior Software Developer at XTEAM. </br>
-With over 7 years of experience in the field, I've had the opportunity to work on various exciting projects and explore different technologies.
+With over 7 years of experience in the field, I've had the opportunity to work on various exciting projects and explore different technologies. 
 
 > “Do, or do not. There is no “try” — Yoda
 
